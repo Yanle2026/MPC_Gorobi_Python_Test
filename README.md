@@ -1,0 +1,2 @@
+# MPC_Gorobi_Python_Test
+记录在gurobipy中完成MPC算法test的迭代
